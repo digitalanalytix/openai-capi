@@ -1,5 +1,5 @@
 homepage: "https://github.com/digitalanalytix/openai-capi"
 documentation: "https://developers.openai.com/ads/conversions-api"
 versions:
-  - sha:
+  - sha: b5460326261d2b54b7e096580678a8da8543a2f7
     changeNotes: "Initial release — OpenAI Conversions API server-side tag with GA4 event inheritance, auto IP/UA population, SHA-256 auto-hashing, oppref extraction, and validate-only mode."
